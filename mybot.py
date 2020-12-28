@@ -39,7 +39,7 @@ class BotHandler:
         return last_update
 
 
-token = '890253007:AAFTr10DH-1bkPwZy4ZjdBr_cbH7dF57kKw'
+token = 'TOKEN_HERE'
 
 RMDSI_bot = BotHandler(token)  ## YOU CAN GIVE A DIFFERENT NAME for BotHandler
 greetings = ('hello', 'hi', 'greetings', 'whatsup')
